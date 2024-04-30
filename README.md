@@ -2,29 +2,24 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Face Detection using Python</b>
-  - [Practicing Face Detection in Python](https://github.com/akboudh/FaceDetction)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Face Recognition</b>
+  - [Practicing Face Recognition in Python](https://github.com/akboudh/FaceDetction)
+- <b>Shrugging Detection</b>
+  - [Shrugging detection using Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><
+- <b>Iris Detection</b>
+  - [Detection of Iris and Pupil using various eye Matlab](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Teeth Gap Detection</b>
+  - [Detecting Gaps in teeth using Matlab](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Hand shape detection</b>
+  - [Detecing fingers and palm length in different hand images using Matlab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Project Demonstration Videos</h2>
 
-- [Face Detection Demonstration](https://www.youtube.com/watch?v=6dmhbq5XsuQ)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Face Recognition Demonstration](https://www.youtube.com/watch?v=6dmhbq5XsuQ)
+- [Shrugging Detection](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Iris Detection](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Teeth Gap Detection](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Hand shape detection](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
