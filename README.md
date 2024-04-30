@@ -18,8 +18,10 @@
   - [Idenitfying bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentiication)
 - <b>Variable Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms using R](https://github.com/akboudh/VariablePrediction)
-- <b>Breats Cancer Predictionn</b>
+- <b>Breats Cancer Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
+- <b>Edge Detection</b>
+  - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/EdgeDetection)
 
 
 <h2>📺 Project Demonstration Videos</h2>
