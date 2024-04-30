@@ -16,6 +16,9 @@
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
 - <b>Bias Identification</b>
   - [Idenitfying bias in machine learning algorithms](https://github.com/akboudh/BiasIdentiication)
+- <b>Variable Prediction</b>
+  - [Comparison of performance of various machine lerning alogirthms](https://github.com/akboudh/VariablePrediction)
+
 
 <h2>📺 Project Demonstration Videos</h2>
 
