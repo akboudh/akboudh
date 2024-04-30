@@ -22,6 +22,8 @@
   - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
 - <b>Edge Detection</b>
   - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/Edge-Deection)
+- <b>Color Detection</b>
+  - [Detecitng color in an images using Python](https://github.com/akboudh/ColorDetection)
 
 
 <h2>📺 Project Demonstration Videos</h2>
@@ -31,6 +33,7 @@
 - [Iris Detection](https://youtu.be/9s6mKeB-OtU)
 - [Teeth Gap Detection](https://youtu.be/DUc1zF668RI)
 - [Hand shape detection]( https://youtu.be/qTsa4DgnLSw)
+- [Hand shape detection]( https://youtu.be/gO17jn3359M)
 
 <h2> 🤳 Connect with me:</h2>
 
