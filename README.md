@@ -18,6 +18,8 @@
   - [Idenitfying bias in machine learning algorithms](https://github.com/akboudh/BiasIdentiication)
 - <b>Variable Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms](https://github.com/akboudh/VariablePrediction)
+- <b>Breats Cancer Predictionn</b>
+  - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer](https://github.com/akboudh/BreastCancer)
 
 
 <h2>📺 Project Demonstration Videos</h2>
