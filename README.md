@@ -32,8 +32,8 @@
 - [Shrugging Detection](https://youtu.be/bDls7UwuAQE)
 - [Iris Detection](https://youtu.be/9s6mKeB-OtU)
 - [Teeth Gap Detection](https://youtu.be/DUc1zF668RI)
-- [Hand shape detection]( https://youtu.be/qTsa4DgnLSw)
-- [Hand shape detection]( https://youtu.be/gO17jn3359M)
+- [Hand Shape Detection]( https://youtu.be/qTsa4DgnLSw)
+- [Color Detection]( https://youtu.be/gO17jn3359M)
 
 <h2> 🤳 Connect with me:</h2>
 
