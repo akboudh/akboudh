@@ -11,7 +11,7 @@
 - <b>Teeth Gap Detection</b>
   - [Detecting Gaps in teeth using Matlab](https://github.com/akboudh/TeethSegmentation)
 - <b>Hand shape detection</b>
-  - [Detecing fingers and palm length in different hand images using Matlab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Detecing fingers and palm length in different hand images using Matlab](https://github.com/akboudh/HandShapeDetection)
 
 <h2>📺 Project Demonstration Videos</h2>
 
@@ -19,7 +19,7 @@
 - [Shrugging Detection](https://youtu.be/bDls7UwuAQE)
 - [Iris Detection](https://youtu.be/9s6mKeB-OtU)
 - [Teeth Gap Detection](https://youtu.be/DUc1zF668RI)
-- [Hand shape detection](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Hand shape detection]( https://youtu.be/qTsa4DgnLSw)
 
 <h2> 🤳 Connect with me:</h2>
 
