@@ -21,7 +21,7 @@
 - <b>Breats Cancer Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
 - <b>Edge Detection</b>
-  - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/EdgeDetection)
+  - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/Edge-Deection)
 
 
 <h2>📺 Project Demonstration Videos</h2>
