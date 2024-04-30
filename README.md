@@ -3,29 +3,29 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Face Recognition</b>
-  - [Practicing Face Recognition in Python](https://github.com/akboudh/FaceDetection)
+  - [Implemented Face Recognition in Python](https://github.com/akboudh/FaceDetection)
 - <b>Shrugging Detection</b>
   - [Shrugging detection using Python](https://github.com/akboudh/ShruggingDetection)
 - <b>Iris Detection</b>
   - [Detection of Iris and Pupil using various eye images in Matlab](https://github.com/akboudh/IrisDetection)
 - <b>Teeth Gap Detection</b>
-  - [Detecting Gaps in teeth using Matlab](https://github.com/akboudh/TeethSegmentation)
+  - [Detection Gaps in teeth using Matlab](https://github.com/akboudh/TeethSegmentation)
 - <b>Hand shape detection</b>
-  - [Detecing fingers and palm length in different hand images using Matlab](https://github.com/akboudh/HandShapeDetection)
+  - [Detection fingers and palm length in different hand images using Matlab](https://github.com/akboudh/HandShapeDetection)
 - <b>Password Cracking</b>
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
 - <b>Bias Identification</b>
-  - [Idenitfying bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentification)
+  - [Idenitfication bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentification)
 - <b>Variable Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms using R](https://github.com/akboudh/VariablePrediction)
-- <b>Breats Cancer Prediction</b>
+- <b>Breast Cancer Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
 - <b>Edge Detection</b>
   - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/EdgeDetection)
 - <b>Color Detection</b>
-  - [Detecting colors in an image using Python](https://github.com/akboudh/ColorDetection)
+  - [Detection colors in an image using Python](https://github.com/akboudh/ColorDetection)
 - <b>LibraryDatabase</b>
-  - [Creating a library management database using SQL](https://github.com/akboudh/libraryDatabase)
+  - [Creation of a library management database using SQL](https://github.com/akboudh/libraryDatabase)
 
 
 <h2>📺 Project Demonstration Videos</h2>
