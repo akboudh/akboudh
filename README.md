@@ -23,7 +23,7 @@
 - <b>Edge Detection</b>
   - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/Edge-Deection)
 - <b>Color Detection</b>
-  - [Detecitng color in an images using Python](https://github.com/akboudh/ColorDetection)
+  - [Deteting color in an images using Python](https://github.com/akboudh/ColorDetection)
 
 
 <h2>📺 Project Demonstration Videos</h2>
