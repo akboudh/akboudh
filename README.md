@@ -16,7 +16,7 @@
 - <b>Password Cracking</b>
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
 - <b>Bias Identification</b>
-  - [Idenitfication bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentification)
+  - [Identification bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentification)
 - <b>Variable Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms using R](https://github.com/akboudh/VariablePrediction)
 - <b>Breast Cancer Prediction</b>
