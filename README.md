@@ -5,7 +5,7 @@
 - <b>Face Recognition</b>
   - [Practicing Face Recognition in Python](https://github.com/akboudh/FaceDetction)
 - <b>Shrugging Detection</b>
-  - [Shrugging detection using Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><
+  - [Shrugging detection using Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Iris Detection</b>
   - [Detection of Iris and Pupil using various eye Matlab](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Teeth Gap Detection</b>
