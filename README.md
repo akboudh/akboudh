@@ -23,7 +23,9 @@
 - <b>Edge Detection</b>
   - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/EdgeDetection)
 - <b>Color Detection</b>
-  - [Deteting color in an images using Python](https://github.com/akboudh/ColorDetection)
+  - [Detecting colors in an image using Python](https://github.com/akboudh/ColorDetection)
+- <b>LibraryDatabase</b>
+  - [Creating a library management database using SQL](https://github.com/akboudh/libraryDatabase)
 
 
 <h2>📺 Project Demonstration Videos</h2>
