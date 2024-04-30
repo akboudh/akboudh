@@ -16,7 +16,7 @@
 <h2>📺 Project Demonstration Videos</h2>
 
 - [Face Recognition Demonstration](https://www.youtube.com/watch?v=6dmhbq5XsuQ)
-- [Shrugging Detection](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Shrugging Detection](https://youtu.be/bDls7UwuAQE)
 - [Iris Detection](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Teeth Gap Detection](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Hand shape detection](https://www.youtube.com/watch?v=E2MwRWxDBkA)
