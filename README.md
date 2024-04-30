@@ -15,11 +15,11 @@
 - <b>Password Cracking</b>
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
 - <b>Bias Identification</b>
-  - [Idenitfying bias in machine learning algorithms](https://github.com/akboudh/BiasIdentiication)
+  - [Idenitfying bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentiication)
 - <b>Variable Prediction</b>
-  - [Comparison of performance of various machine lerning alogirthms](https://github.com/akboudh/VariablePrediction)
+  - [Comparison of performance of various machine lerning alogirthms using R](https://github.com/akboudh/VariablePrediction)
 - <b>Breats Cancer Predictionn</b>
-  - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer](https://github.com/akboudh/BreastCancer)
+  - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
 
 
 <h2>📺 Project Demonstration Videos</h2>
