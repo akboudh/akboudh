@@ -7,7 +7,7 @@
 - <b>Shrugging Detection</b>
   - [Shrugging detection using Python](https://github.com/akboudh/ShruggingDetection)
 - <b>Iris Detection</b>
-  - [Detection of Iris and Pupil using various eye Matlab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Detection of Iris and Pupil using various eye Matlab](https://github.com/akboudh/IrisDetection)
 - <b>Teeth Gap Detection</b>
   - [Detecting Gaps in teeth using Matlab](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Hand shape detection</b>
@@ -17,7 +17,7 @@
 
 - [Face Recognition Demonstration](https://www.youtube.com/watch?v=6dmhbq5XsuQ)
 - [Shrugging Detection](https://youtu.be/bDls7UwuAQE)
-- [Iris Detection](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Iris Detection](https://youtu.be/9s6mKeB-OtU)
 - [Teeth Gap Detection](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Hand shape detection](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
