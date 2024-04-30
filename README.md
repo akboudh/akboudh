@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akshat! <br/>CS major, Mathematics minor, Data Analytics certificate </h1>
+<h1>Hi, I'm Akshat! <br/>Computer Science major, Mathematics minor, Data Analytics certificate </h1>
 
 <h2>👨‍💻Projects:</h2>
 
