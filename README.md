@@ -7,7 +7,7 @@
 - <b>Shrugging Detection</b>
   - [Shrugging detection using Python](https://github.com/akboudh/ShruggingDetection)
 - <b>Iris Detection</b>
-  - [Detection of Iris and Pupil using various eye Matlab](https://github.com/akboudh/IrisDetction)
+  - [Detection of Iris and Pupil using various eye images in Matlab](https://github.com/akboudh/IrisDetction)
 - <b>Teeth Gap Detection</b>
   - [Detecting Gaps in teeth using Matlab](https://github.com/akboudh/TeethSegmentation)
 - <b>Hand shape detection</b>
