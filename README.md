@@ -14,6 +14,8 @@
   - [Detecing fingers and palm length in different hand images using Matlab](https://github.com/akboudh/HandShapeDetection)
 - <b>Password Cracking</b>
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
+- <b>Bias Identification</b>
+  - [Idenitfying bias in machine learning algorithms](https://github.com/akboudh/BiasIdentification)
 
 <h2>📺 Project Demonstration Videos</h2>
 
