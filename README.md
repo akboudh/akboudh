@@ -3,11 +3,11 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Face Recognition</b>
-  - [Practicing Face Recognition in Python](https://github.com/akboudh/FaceDetction)
+  - [Practicing Face Recognition in Python](https://github.com/akboudh/FaceDetection)
 - <b>Shrugging Detection</b>
   - [Shrugging detection using Python](https://github.com/akboudh/ShruggingDetection)
 - <b>Iris Detection</b>
-  - [Detection of Iris and Pupil using various eye images in Matlab](https://github.com/akboudh/IrisDetction)
+  - [Detection of Iris and Pupil using various eye images in Matlab](https://github.com/akboudh/IrisDetection)
 - <b>Teeth Gap Detection</b>
   - [Detecting Gaps in teeth using Matlab](https://github.com/akboudh/TeethSegmentation)
 - <b>Hand shape detection</b>
@@ -15,13 +15,13 @@
 - <b>Password Cracking</b>
   - [Evaluation of performance of various password hashing algorithms](https://github.com/akboudh/PasswordCracking)
 - <b>Bias Identification</b>
-  - [Idenitfying bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentiication)
+  - [Idenitfying bias in machine learning algorithms using R](https://github.com/akboudh/BiasIdentification)
 - <b>Variable Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms using R](https://github.com/akboudh/VariablePrediction)
 - <b>Breats Cancer Prediction</b>
   - [Comparison of performance of various machine lerning alogirthms in predicting breats cancer using R](https://github.com/akboudh/BreastCancer)
 - <b>Edge Detection</b>
-  - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/Edge-Deection)
+  - [Gradient and edge detection in various images using C++ ](https://github.com/akboudh/EdgeDetection)
 - <b>Color Detection</b>
   - [Deteting color in an images using Python](https://github.com/akboudh/ColorDetection)
 
