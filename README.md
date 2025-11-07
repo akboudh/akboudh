@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akshat! <br/>Computer Science major, Mathematics minor, <br>        
+<h1>Hi, I'm Akshat! <br/>Currently pursuing Masters in Business and Technology from Purdue, BS in Computer Science, Mathematics minor, <br>        
   Data Analytics certificate </h1>
 
 <h2>👨‍💻Projects:</h2>
